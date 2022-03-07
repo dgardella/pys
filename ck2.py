@@ -10,4 +10,3 @@ driver = webdriver.Chrome()
 driver.get(url)
 # CHAUUUU
 # eh gato
-# sep el mismo
