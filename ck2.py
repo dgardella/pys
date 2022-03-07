@@ -9,3 +9,4 @@ driver = webdriver.Chrome()
 # Directing the driver to the defined url
 driver.get(url)
 # CHAUUUU
+# eh gato
